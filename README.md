@@ -36,14 +36,14 @@ The CTX-IP-Tools module requires the following files:
 * [CTX-IP-Tools Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Excel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.3.studiopkg)
 
 ### Other Requisites
-The CTX-IP-Tools module has the following additional requirements which are explained in detail in the [Deployment Plan](#Installation):
+The CTX-IP-Tools module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/blob/master/CTX-IP-Tools%20-%20Deployment%20Plan.pdf):
 * PowerShell v5 to be installed on the application server
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](#Installation).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/blob/master/CTX-IP-Tools%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIATest/CTXExcel/blob/master/CTX-Excel%20-%20User%20Guide.docx). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/blob/master/CTX-IP-Tools%20-%20User%20Guide.pdf). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
