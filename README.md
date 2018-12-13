@@ -33,7 +33,7 @@ The CTX-IP-Tools module requires the following Cortex OCIs:
 
 ### Files
 The CTX-IP-Tools module requires the following files:
-* [CTX-IP-Tools Studio Package](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/releases/download/1.0/CTX-IP-Tools.studiopkg)
+* [CTX-IP-Tools Studio Package](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/releases/download/v1.0/CTX-IP-Tools.studiopkg)
 
 ### Other Requisites
 The CTX-IP-Tools module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/blob/master/CTX-IP-Tools%20-%20Deployment%20Plan.pdf):
