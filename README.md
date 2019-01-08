@@ -53,12 +53,12 @@ The CTX-IP-Tools module has the following versions, starting with the most recen
 
 Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
-v1.0 | 29/10/2018 | Check IP In Subnet | Created
-v1.0 | 29/10/2018 | Classful Netmask to CIDR Notation | Created
-v1.0 | 29/10/2018 | Check Subnet Overlap| Created
-v1.0 | 29/10/2018 | Get nth IP | Created
-v1.0 | 29/10/2018 | Get Subnet Details | Created
-v1.0 | 29/10/2018 | Get X IPs | Created
+v1.0 | 29/10/2018 | IP-Tools-CIIS-Check-IP-In-Subnet | Created
+v1.0 | 29/10/2018 | IP-Tools-CNTCN-Classful-Netmask-to-CIDR-Notation | Created
+v1.0 | 29/10/2018 | IP-Tools-CSO-Check-Subnet-Overlap | Created
+v1.0 | 29/10/2018 | IP-Tools-GNI-Get-nth-IP | Created
+v1.0 | 29/10/2018 | IP-Tools-GSD-Get-Subnet-Details | Created
+v1.0 | 29/10/2018 | IP-Tools-GXI-Get-X-IPs | Created
 
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
